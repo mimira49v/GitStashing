@@ -8,5 +8,10 @@ public class Main {
             Audi.engineCapac = "V8";
             Audi.headlights = "blue";
             Audi.regNo = "tuzik";
+
+//          lets write our own code
+            System.out.println("welcome to my car");
+            System.out.println("radio is set to 80mhz");
+            System.out.println("Turn on the air conditioner");
         }
     }
